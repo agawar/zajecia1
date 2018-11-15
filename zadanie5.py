@@ -14,3 +14,4 @@ def vat_paragon(lista):
 
 zakupy = [0.2, 0.5, 4.59, 6]
 print(vat_faktura(zakupy))
+print(vat_paragon(zakupy))
