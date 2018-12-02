@@ -18,3 +18,4 @@ def ilemonetlubbanotow(pieniadze, nominal):
 
 
 jakzaplacic(123)
+jakzaplacic(98)
